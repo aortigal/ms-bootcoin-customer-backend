@@ -10,4 +10,8 @@ class MsBootcoinCustomerBackendApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void main() {
+		MsBootcoinCustomerBackendApplication.main(new String[] {});
+	}
 }
