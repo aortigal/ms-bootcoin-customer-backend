@@ -1,8 +1,8 @@
 package com.bank.msbootcoincustomerbackend.models.documents;
 
 import com.bank.msbootcoincustomerbackend.models.utils.Audit;
-import com.bank.msbootcoincustomerbackend.models.utils.enums.CustomerType;
-import com.bank.msbootcoincustomerbackend.models.utils.enums.DocumentType;
+import com.bank.msbootcoincustomerbackend.models.enums.CustomerType;
+import com.bank.msbootcoincustomerbackend.models.enums.DocumentType;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

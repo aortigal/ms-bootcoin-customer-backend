@@ -1,8 +1,8 @@
 package com.bank.msbootcoincustomerbackend.mocks;
 
 import com.bank.msbootcoincustomerbackend.models.documents.Customer;
-import com.bank.msbootcoincustomerbackend.models.utils.enums.CustomerType;
-import com.bank.msbootcoincustomerbackend.models.utils.enums.DocumentType;
+import com.bank.msbootcoincustomerbackend.models.enums.CustomerType;
+import com.bank.msbootcoincustomerbackend.models.enums.DocumentType;
 
 import java.util.UUID;
 
